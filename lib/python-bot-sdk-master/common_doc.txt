@@ -1,0 +1,26 @@
+Help on package dialog_bot_sdk:
+
+NAME
+    dialog_bot_sdk
+
+PACKAGE CONTENTS
+    bot
+    content (package)
+    entity_manager
+    groups
+    interactive_media
+    internal (package)
+    messaging
+    service
+    updates
+    uploading
+    users
+    utils (package)
+
+DATA
+    version = '1.0.0'
+
+FILE
+    c:\users\tsiferov-aa\desktop\python\lucy\lib\python-bot-sdk-master\dialog_bot_sdk\__init__.py
+
+
